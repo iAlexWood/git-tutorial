@@ -3,4 +3,4 @@
   - fix-B
   - feature-A
     There is an accident.
-
+  - feature-C
